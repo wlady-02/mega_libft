@@ -1,0 +1,5 @@
+*.o
+*.a
+obj/
+.mode_base
+.mode_bonus
